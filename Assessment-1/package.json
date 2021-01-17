@@ -1,0 +1,17 @@
+{
+  "name": "assessment-1",
+  "version": "1.0.0",
+  "description": "A simple assessment on node.js session-4 course.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Bayes Ahmed Shoharto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "nodemon": "^2.0.7"
+  }
+}

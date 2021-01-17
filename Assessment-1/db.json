@@ -1,0 +1,23 @@
+
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Cat Food"
+      },
+      {
+        "id": 2,
+        "name": "Dog Food"
+      }
+    ],
+    "users": [
+      {
+        "id": 3,
+        "name": "Cat"
+      },
+      {
+        "id": 4,
+        "name": "Dog"
+      }
+    ]
+  }
